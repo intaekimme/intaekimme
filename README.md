@@ -19,10 +19,9 @@
 
 <br>
 
+## ⚒️Tech Stack⚒️
+
 <p align="center">
-   
-    ## ⚒️Tech Stack⚒️
-   
     💡used as the main
 </p>
 
