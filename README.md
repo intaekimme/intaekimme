@@ -51,8 +51,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kit938639)](https://solved.ac/kit938639)
 
 <br>
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intaekimme&layout=compact&theme=dark)
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intaekimme&layout=compact&theme=dark)
 
 </div>
