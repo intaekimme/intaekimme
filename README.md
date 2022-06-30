@@ -46,8 +46,9 @@
 <br>
 
 <div align=center>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intaekimme&layout=compact&theme=dark)
-<br>
+
 ![intaekimme's github stats](https://github-readme-stats.vercel.app/api?username=intaekimme&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kit938639)](https://solved.ac/kit938639)
 
