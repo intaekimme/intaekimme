@@ -55,6 +55,7 @@
 ![intaekimme's github stats](https://github-readme-stats.vercel.app/api?username=intaekimme&show_icons=true)
 
 ## 🏅 Baekjoon solved rank
+   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kit938639)](https://solved.ac/kit938639)
 
 </div>
