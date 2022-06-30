@@ -20,7 +20,9 @@
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+   
+    ## ⚒️Tech Stack⚒️
+   
     💡used as the main
 </p>
 
